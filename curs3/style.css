@@ -1,0 +1,9 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:chocolate;
+}
+
+p:hover{
+    color: : red;
+}
